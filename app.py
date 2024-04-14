@@ -128,7 +128,7 @@ def Individual():
         if prediction[0] == 1:
             result = "Sorry your mental health is not good.. Please consult a doctor."
         else:
-            result = "Yoooooo! your mental health is good.."
+            result = "Congragulations !!!! Your mental health is good..."
         return render_template("result.html", original_input=output_dict, result=result)
 
 
