@@ -55,3 +55,4 @@ wcwidth==0.2.13
 Werkzeug==3.0.2
 wheel==0.43.0
 gunicorn==21.2.0
+pip==3.10
